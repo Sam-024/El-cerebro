@@ -1,2 +1,101 @@
-# El-cerebro
-Una pagina web para aprender un poco mas sobre uno de los organos mas importantes del cuerpo humano
+<!DOCTYPE html>
+<html>
+    <head> 
+        <meta charset="utf-8">
+        <title>El cerebro humano</title>
+        <style>
+        body {
+            font-size: 20px;
+        }
+        img{
+            width: 75%;
+            margin: auto;
+            border: 4px solid purple;
+            
+        }
+        td{
+            overflow-y: auto;
+            overflow-x: auto;
+            border: 2px solid rgb(89, 51, 214);
+        }
+        li{
+           font-family:monospace;
+        }
+               p {
+           font-family: verdana;
+            overflow-y: auto;
+            overflow-x: auto;
+            margin: 10px;
+            
+       } 
+        
+       th {
+           font-style: italic;
+           border: 2px solid rgb(145, 0, 0);
+       }
+       
+       h3 {
+       font-style: italic;
+       }
+        </style>
+    </head>
+    <body>
+    <h1>¿Que es el cerebro?</h1>
+    <img src="https://plustatic.com/115/conversions/lobulos-cerebro-social.jpg" width="203">
+    <ul>
+        <li><a href="#T1">¿El cerebro es un musculo?</a></li>
+        <li><a href="#T2">¿Para que sirve?</a></li>
+        <li><a href="#T3">Caracteristicas</a></li>
+    </ul>
+    <p>El cerebro se puede definir como un órgano complejo, ubicado dentro del cráneo, que gestiona la actividdad del sistema nervioso. Forma parte del Sistema Nervioso Central (SNC) y constituye la parte más voluminosa y conocida del encéfalo. Está situado en la parte anterior y superior de la cavidad craneal y está presente en todos los vertebrados. Dentro del cráneo, el cerebro flota en un líquido transparente, llamado líquido cefalorraquídeo, que cumple funciones de protección, tanto físicas como inmunológicas.
+    <p>
+    <h2 id="T1">¿El cerebro es un músculo?</h2> 
+    <p> A pesar de que coloquialmente se diga que el cerebro debe ser entrenado y ejercitarlo como un músculo para evitar que se atrofie, en realidad debemos tener claro que no es un músculo. No está compuesto por miocitos, las células musculares, sino que está formado por millones de neuronas que, interconectadas mediante axones y dendritas, permiten regular todas y cada una de las funciones del cerebro, cuerpo y la mente: Desde respirar, pasando por comer o dormir, hasta la capacidad para razonar, para enamorarnos o para discutir con alguien. Todo esto pasa por el control cerebral, siendo sólo una parte de todas las funciones de este organo.
+    
+    <h2 id="T2">¿Para que sirve?</h2>
+    <p>Como parte fundamental del encéfalo y del SNC, las funciones del cerebro podrían resumirse en controlar y regular la mayoría de funciones del cuerpo y de la mente. Este se encarga de funciones vitales, como respirar o regular el pulso cardíaco, pasando por el sueño, el hambre o la sed, hasta funciones superiores como el razonamiento, la memoria, la atención,el control de las emociones y la conducta. Entre las funciones mas importantes estan
+    
+<ul>
+    <li>Control de funciones vitales: Como la regulación de la temperatura, de la presión sanguínea, de la tasa cardíaca, la respiración, dormir, comer, entre otras.
+    <li>Recibe, procesa, integra e interpreta toda la información que recibe de los sentidos: La vista, el oído, el gusto, el tacto y el olfato.
+    <li>Controla los movimientos que hacemos y la posición postural: Caminar, correr, hablar, estar de pie.
+    <li>Es responsable de nuestras emociones y conductas.
+    <li>Controla las funciones cognitivas superiores: La memoria, el aprendizaje, la percepción, las funciones ejecutivas
+</ul>
+
+<h2 id="T3">Caracteristicas</h2>
+<ul>
+    <li>El cerebro (y la médula espinal) están recubiertas por unas membranas, llamadas meninges, que lo protegen de los golpes contra el cráneo
+    <li>Para más protección, el cerebro “flota” en el líquido cefalorraquídeo.
+    <li>Se estima que el cerebro humano está compuesto por más de 100 billones de células nerviosas, mayoritariamente células gliales y neuronas.
+    <li>En el cerebro humano, el córtex cerebral es uno de los más evolucionados y complejos que existen. No sólo tiene un tamaño más grande que otras especies, sino que también se dobla y se pliega sobre sí mismo más veces (conocido como índice de girificación), formando circunvoluciones y surcos que le dan esa apariencia arrugada tan característica.
+</ul>
+       <table>
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Funcion</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Rombencéfalo</td>
+                    <td>Se trata de la parte superior de la médula espinal y a lo largo del desarrollo del feto se irá transformando en las estructuras encargadas de realizar tareas indispensables para la supervivencia, como el control del ritmo cardíaco y de la respiración.</td>
+                </tr>
+                 <tr>
+                    <td>Mesencéfalo</td>
+                    <td>En los embriones humanos aparece justo encima del rombencéfalo, y se irá transformando en la parte medial del encéfalo, encargada también de realizar buena parte de las funciones básicas de supervivencia pero que también actúa de puente entre las otras dos estructuras.</td>
+                </tr>
+                 <tr>
+                    <td>Prosencéfalo</td>
+                    <td>Situado en el extremo más alejado de la médula espinal y en el lado más cercano al rostro del embrión, el prosencéfalo es la formación que se irá transformando en las partes del cerebro que han aparecido más recientemente en nuestra línea evolutiva y que, por tanto, tienen que ver con el uso del lenguaje, la planificación y la búsqueda de soluciones creativas a problemas nuevos.</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h3><a target="_blank" href="https://psicologiaymente.com/neurociencias/partes-cerebro-humano">Bibliografia 1</a></h3>
+        <h3><a target="_blank" href="https://www.cognifit.com/es/cerebro">Bibliografia 2</a></h3>
+ </body>
+ </html>
+
+
